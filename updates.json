@@ -5,9 +5,9 @@
     "version": "2.1.1"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-v2.1.1/release.json",
-    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-v2.1.1/VivifyScrum-2.1.1.dmg",
-    "version": "2.1.1"
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-v2.1.2/release.json",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-v2.1.2/VivifyScrum-2.1.2.dmg",
+    "version": "2.1.2"
   },
   "linux-x64-prod": {
     "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.1.1/VivifyScrum-2.1.1-x86_64.AppImage",
