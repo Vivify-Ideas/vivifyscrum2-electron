@@ -10,8 +10,8 @@
     "version": "2.4.4"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.3/VivifyScrum-2.4.3-x86_64.AppImage",
-    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.3/VivifyScrum-2.4.3-x86_64.AppImage",
-    "version": "2.4.3"
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.4/VivifyScrum-2.4.4-x86_64.AppImage",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.4/VivifyScrum-2.4.4-x86_64.AppImage",
+    "version": "2.4.4"
   }
 }
