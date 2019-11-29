@@ -1,8 +1,8 @@
 {
   "win32-ia32-prod": {
-    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.4.15",
-    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.4.15/VivifyScrum.Setup.2.4.15.exe",
-    "version": "2.4.15"
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.4.16",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.4.16/VivifyScrum.Setup.2.4.16.exe",
+    "version": "2.4.16"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-v2.4.15/release.json",
@@ -10,8 +10,8 @@
     "version": "2.4.15"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.16/VivifyScrum-2.4.16-x86_64.AppImage",
-    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.16/VivifyScrum-2.4.16-x86_64.AppImage",
-    "version": "2.4.16"
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.15/VivifyScrum-2.4.15-x86_64.AppImage",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.4.15/VivifyScrum-2.4.15-x86_64.AppImage",
+    "version": "2.4.15"
   }
 }
