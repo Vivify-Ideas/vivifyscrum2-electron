@@ -5,14 +5,14 @@
     "version": "2.4.16"
   },
   "darwin-x64-prod": {
-    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-2.4.24/release.json",
-    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-2.4.24/VivifyScrum-2.4.24.dmg",
-    "version": "2.4.24"
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-2.4.25/release.json",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-2.4.25/VivifyScrum-2.4.25.dmg",
+    "version": "2.4.25"
   },
   "linux-x64-prod": {
-    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-2.4.25/VivifyScrum-2.4.25.AppImage",
-    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-2.4.25/VivifyScrum-2.4.25.AppImage",
-    "version": "2.4.25",
-    "sha256": "c2b49dc2ad64a9d3b94babd22a68e475536c1ac6d768f79d9cce26c61855bb1b"
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-2.4.26/VivifyScrum-2.4.26.AppImage",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-2.4.26/VivifyScrum-2.4.26.AppImage",
+    "version": "2.4.26",
+    "sha256": "26cbd1387a75705f24cbcf84f5acb87ff517e4408f734a720a7acc92fb337e1a"
   }
 }
