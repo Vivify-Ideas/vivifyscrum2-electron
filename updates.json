@@ -1,8 +1,8 @@
 {
   "win32-ia32-prod": {
-    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.4.16",
-    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-v2.4.16/VivifyScrum.Setup.2.4.16.exe",
-    "version": "2.4.16"
+    "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-2.4.29",
+    "install": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/win32-ia32-prod-2.4.29/VivifyScrum.Setup.2.4.29.exe",
+    "version": "2.4.29"
   },
   "darwin-x64-prod": {
     "update": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/darwin-x64-prod-2.4.29/release.json",
